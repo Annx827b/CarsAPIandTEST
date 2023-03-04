@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsAPI", "CarsAPI\CarsAPI.csproj", "{58BD7116-4A4A-44F7-AC7F-679062AF4FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAPITests", "CarsAPITests\CarsAPITests.csproj", "{5D53A42F-5CF2-449E-B2AB-7809C7B72B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BD7116-4A4A-44F7-AC7F-679062AF4FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BD7116-4A4A-44F7-AC7F-679062AF4FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BD7116-4A4A-44F7-AC7F-679062AF4FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BD7116-4A4A-44F7-AC7F-679062AF4FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D53A42F-5CF2-449E-B2AB-7809C7B72B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D53A42F-5CF2-449E-B2AB-7809C7B72B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D53A42F-5CF2-449E-B2AB-7809C7B72B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D53A42F-5CF2-449E-B2AB-7809C7B72B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0872B89-4F2B-498C-B15A-F314924DA707}
+	EndGlobalSection
+EndGlobal
